@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Crawls a site and finds all 404 (broken) or unreachable links, ignoring mailto and tel links.
-Change utl to one you want to scan on line 77
+Crawls a site and finds all 404 (broken) or unreachable links, ignoring mailto and tel links. - creates excel sheet
+Change url to one you want to scan on line 77
 """
 
 import requests
