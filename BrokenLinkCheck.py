@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 27 15:00:11 2025
-
+Check password protected site single page for 404
 @author: MelanieLeonard
 """
 
